@@ -1,0 +1,5 @@
+[12557:259:0506/115540.487068:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.137 (not a warning)
+[12557:259:0506/115540.900482:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[12557:259:0506/115540.900528:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[12557:259:0506/115542.519957:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[12557:259:0506/115929.235184:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

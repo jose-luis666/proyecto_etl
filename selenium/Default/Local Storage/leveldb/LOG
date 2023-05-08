@@ -1,6 +1,0 @@
-2023/05/07-17:52:27.704 3103 Reusing MANIFEST /Users/joseluisreguera/Desktop/IRONHACK/proyecto_etl/selenium/Default/Local Storage/leveldb/MANIFEST-000001
-2023/05/07-17:52:27.706 3103 Recovering log #7
-2023/05/07-17:52:27.707 3103 Reusing old log /Users/joseluisreguera/Desktop/IRONHACK/proyecto_etl/selenium/Default/Local Storage/leveldb/000007.log 
-2023/05/07-17:52:51.214 3103 Level-0 table #11: started
-2023/05/07-17:52:51.222 3103 Level-0 table #11: 76773 bytes OK
-2023/05/07-17:52:51.230 3103 Delete type=0 #7

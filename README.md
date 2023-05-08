@@ -1,21 +1,21 @@
-## Proyecto ETL
+# Proyecto ETL
 
 En este proyecto se realizará una extracción, transformación y carga de los datos de las canciones más virales de Spotify durante el 2022 a una base de datos de SQL.
 
-# Metodología:
+## Metodología:
 
     -Extracción de datos de tres fuentes distintas utilizando dos métodos de extracción diferentes.
     -Transformación y limpieza de los datos.
     -Carga en base de datos.
 
-# Primer paso:
+## Primer paso:
 
 En primer lugar hemos descargado un archivo csv de Kaggle, con toda la información acerca de estas canciones virales y sus artistas.
 
 Seguidamente hemos procedido a su limpieza, para evitar confusiones e imprecisiones. También hemos decidido prescindir de gran cantidad de filas y quedarnos sólo con las 50 canciones más virales, para facilitar el proceso de extracción de datos posterior.
 
 
-# Segundo paso:
+## Segundo paso:
 
 Una vez limpios y ordenados los datos, hemos pasado a enriquecer la tabla. 
 
@@ -24,6 +24,6 @@ Para esto hemos decidido acudir a las redes sociales de los artistas, y observar
 Nos hemos valido de la automatización para extraer los datos, y gracias al scrapping con Selenium, en sólo unos minutos hemos obtenido toda la información.
 
 
-# Resultado:
+## Resultado:
 
 El resultado nos ofrece una tabla con información completa y ordenada acerca del artista y de las canciones más virales del año 2022.
